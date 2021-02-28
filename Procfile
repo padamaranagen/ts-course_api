@@ -1,1 +1,1 @@
-web: ts-node start
+web: npm start
